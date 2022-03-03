@@ -17,7 +17,6 @@ namespace Exercicio3
             decimal.TryParse(kmRodado, out kmConvertido);
             decimal.TryParse(litrosGastos, out litrosConvertido);
 
-
             decimal mediaGasta= kmConvertido / litrosConvertido;
 
             Console.WriteLine($"Seu automovel fez: {mediaGasta} km rodado por litro gasto. ");

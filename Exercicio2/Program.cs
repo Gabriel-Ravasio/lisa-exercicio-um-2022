@@ -16,7 +16,6 @@ namespace Exercicio2
 
             decimal valorCambioConvertido = valorConvertido * valorCambio;
 
-
             Console.WriteLine($"valor em R$: {valorCambioConvertido} ");
             Console.ReadLine();
         }

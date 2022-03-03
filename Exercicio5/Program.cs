@@ -37,9 +37,6 @@ namespace Exercicio5
             Console.WriteLine($"Resto da divisão: {resultFinal} ");
 
             Console.ReadLine();
-
-
-
-        }
+             }
     }
 }

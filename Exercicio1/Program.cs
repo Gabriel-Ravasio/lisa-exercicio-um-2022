@@ -20,7 +20,6 @@ namespace Exercicio1
 
             decimal valorCambioConvertido = valorConvertido * valorCambio;
 
-
             Console.WriteLine($"valor em $: {valorCambioConvertido} ");
             Console.ReadLine();
 
